@@ -26,7 +26,7 @@ pitchDy := -10
 }
 /**
  * * Instructions: Look direction down (10° in roblox), then press Numpad1 to look 45° up and be able to jump at perfect distance.
- * todo: Fix said shitty workaround for the mouse not being able to move with MouseMove().
- * todo: Also add support for looking at Yaw 45° so you can get a little extra distance.
+ * FIXME: Fix said shitty workaround for the mouse not being able to move with MouseMove().
+ * TODO: Also add support for looking at Yaw 45° so you can get a little extra distance.
  * toodles
  */
